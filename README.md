@@ -1,6 +1,8 @@
-# 🏄‍♀️ miaz
+## 🏄‍♀️ miaz
 
-Hi there 👋, I'm **miaz(Mia)**, a design engineer.
+**`design engineer`**
+
+Hi there 👋, I'm miaz. I care about taste in design, production-ready code, and motion that works.
 
 <p>
   <img alt="TypeScript"
